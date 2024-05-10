@@ -1,4 +1,5 @@
 # manual_GENTO-
+
 1-Primeiro passo :  seu professor responsavel deve passar  para voce o arquivo com o gento  e assim voce passa para seu computador baixado ...
     
     2-Segundo passo: voce abre o seu virtual box e configure colocando as seguintes informações 
@@ -10,4 +11,7 @@
             - inicie o progama e espere tudo 
             - com o gento instalado voce configure de acordo com seu : indioma,gosto e projetos etc...
 
-     3-ultimo passo: depois de pronto se divirta com seu gento virtual # :grin:
+     3-ultimo passo: depois de pronto se divirta com seu gento virtual :D
+
+     
+    ![alt text](imagens/foto1.jpg)
