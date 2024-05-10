@@ -13,6 +13,4 @@
 
      3-ultimo passo: depois de pronto se divirta com seu gento virtual :D
 
-![alt text](imagens/Image.jpg)
-
-![alt text](imagens/Image.jpg)
+     ![alt text](imagens/Image.jpg)
